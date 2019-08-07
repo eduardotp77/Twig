@@ -1,6 +1,6 @@
 language: php
 
-sudo: false
+dist: xenial
 
 cache:
     directories:
